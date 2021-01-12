@@ -1,15 +1,15 @@
 {
   "name": "HabboElectron",
-  "productName": "Fubbie - Pixel away!",
+  "productName": "Cloudie - Pixel away!",
   "settings": {
-    "hotelName": "Fubbie",
-    "url": "https://fubbie.nl",
+    "hotelName": "Cloudie",
+    "url": "https://cloudiehotel.nl",
     "useFrame": true,
     "backgroundColor": "#ccc",
     "hideMenu": true
   },
   "version": "1.0.0",
-  "description": "Fubbie Desktop Application",
+  "description": "Cloudie Desktop Application",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
